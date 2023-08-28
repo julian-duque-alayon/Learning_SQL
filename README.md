@@ -13,3 +13,8 @@ This Repo has the purpose of track my progress while I learn SQL
     </p>
   </li>
 </ul>
+<h3>
+  <p>
+    Note: Entity Relationship Diagram (ERD): The one used for db is the Chen diagram is a graphical representation of entities and their relationships to each other.
+  </p>
+</h3>
