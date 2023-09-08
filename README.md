@@ -4,6 +4,7 @@ This Repo has the purpose of track my progress while I learn SQL
 <ul>
   <li>
     https://www.youtube.com/watch?v=DFg1V-rO6Pg&ab_channel=SoyDalto
+    https://vertabelo.com/blog/chen-erd-notation/
   </li>
 </ul>
 <h2>Concepts:</h2>
