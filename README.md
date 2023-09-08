@@ -8,6 +8,12 @@ This Repo has the purpose of track my progress while I learn SQL
   <li>
     https://vertabelo.com/blog/chen-erd-notation/
   </li>
+  <li>
+    https://sqlbolt.com/
+  </li>
+  <li>
+    https://www.youtube.com/watch?v=HXE169-n5pM&ab_channel=jonmircha
+  </li>
 </ul>
 <h2>Concepts:</h2>
 <ul>
